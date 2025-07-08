@@ -3,11 +3,7 @@
 ClimaCheck is a modern, responsive weather dashboard web app that provides real-time weather information for any city worldwide. It features a beautiful UI, animated backgrounds, and detailed weather metrics including temperature, humidity, wind speed, pressure, visibility, sunrise, and sunset times.
 
 ## 🌐 Live Demo
-<<<<<<< HEAD
-[View ClimaCheck on GitHub Pages](https://YOUR_GITHUB_USERNAME.github.io/climacheck-weather-dashboard/)
-=======
 [View ClimaCheck on GitHub Pages](https://amanjotkaurr.github.io/climacheck-weather-dashboard/)
->>>>>>> 0e3ae5fa8a7a4fb6b79a0c2ac4f205f546ac79ff
 
 ## ✨ Features
 - Search weather by city name or use your current location
